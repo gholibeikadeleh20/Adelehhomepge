@@ -1,0 +1,104 @@
+body{
+    margin: 0%;
+  color:rgba(234, 229, 229, 0.946);
+    
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+  
+    font-family: 'Lobster', cursive;
+    font-weight: 800;
+    background-image: url("https://gholibeikadeleh20.github.io/picture/pic1.jpg");
+  
+  }
+  #hero {
+    background-image: url("https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif");
+    background-size: cover;
+    
+  }
+  #title{
+    text-shadow: 5px 5px 4px rgb(21, 21, 21);
+  font-size: 80px;
+  }
+  #intro {
+    /*background: #457b9d;*/
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+    width: 800px;
+    line-height: 35px;
+    color: rgb(234, 14, 14);
+    text-shadow: 5px 5px 4px rgb(141, 135, 135);
+    text-align: center;
+  }
+  
+  #activities {
+    background-color: #b3aaaa;
+    padding-top: 300px;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #images {
+    width: 500px;
+  
+   
+    justify-content: space-between;
+  }
+  #activities img {
+    
+    width: 500px;
+    height: 500px;
+    border-radius: 20;
+  
+    
+  }
+  
+  #activity {
+    width: 250px;
+    font-weight: 500;
+  }
+  
+  
+  
+  .card {
+    width: 450px;
+    margin: 80px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background: #a8dadc;
+    color: #1e1d22;
+    border-bottom: 6px solid #060622;
+    border-radius: 10px;
+  }
+  .border-blue {
+    border: 1px dotted #a4a8ac;
+  }
+  
+  .card img {
+    object-fit: cover;
+    width: 150px;
+    border-radius: 10px;
+    height: 150px;
+  }
+  .business-card-text {
+    width: 250px;
+    margin-left: 20px;
+  }
+  
+  #morocco {
+    background: #0b172c;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .btn {
+  padding: 5px 20px;
+  background: rgb(192, 156, 156);
+  border: none;
+  }
+  .underline {
+    border-bottom: 8px solid hsla(0, 20%, 98%, 0.984);
+  }
